@@ -5,3 +5,6 @@ Learned that std::vector in C++ behaves like Python’s list, offering dynamic r
 
 Day 2: Matrix Transpose Implementation
 Implemented a basic matrix transpose with vector data structure of C++.
+
+Day 3: Matrix Multiplication Implementation
+Implemented matrix multiplication for strictly square matrices for now with n cubed time complexity. Used a python program to help internalize the procedure better.
